@@ -1,23 +1,28 @@
 <!--
-  Links to fill in before you commit: search this file for EDIT-ME.
+  Social links still to fill in: search this file for EDIT-ME.
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:A78BFA&height=200&section=header&text=Hi%2C%20I'm%20Jack&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Trading%20systems%20%C2%B7%20Market%20making%20%C2%B7%20Quantitative%20finance&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Hi, I'm Jack" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:A78BFA&height=200&section=header&text=Hi%2C%20I'm%20Jack&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Finance%20%C2%B7%20Trading%20%C2%B7%20Software%20engineering&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Hi, I'm Jack" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=I+build+market-making+and+trading+systems;Backtests+that+model+latency%2C+queues+and+fees;Python+%C2%B7+C%2B%2B+%C2%B7+Rust+%C2%B7+OCaml" alt="I build market-making and trading systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Trading+%C2%B7+Markets+%C2%B7+Quant+development;Market+making+%26+market+microstructure;Python+%C2%B7+C%2B%2B+%C2%B7+Rust+%C2%B7+OCaml" alt="Trading, markets and quant development" />
 </p>
 
 <br />
 
 ## 🧙‍♂️ About me
 
-- 📈 I specialise in **quantitative finance**: market making, market microstructure and backtesting.
-- 🔭 Currently building **[Sports-Contracts-Market-Making-Engine](https://github.com/JackMcKenna38/Sports-Contracts-Market-Making-Engine)**, a market maker for Polymarket NBA and NHL contracts, priced from bookmaker odds.
-- ⚙️ I care about systems that hold up on real data, where latency, queue position and fees decide whether a strategy makes money.
-- 🤝 Open to roles and collaborations in trading, quant development and financial engineering.
+I'm a developer working across finance: trading, markets and the systems behind them. I like problems where speed, correctness and real money meet.
+
+- 📈 **Markets & trading:** market making, order-book and market-microstructure analysis, pricing and risk.
+- ⚡ **Real-time systems:** live market-data pipelines over WebSockets and REST, exact order-book reconstruction verified against exchange checksums, and deterministic record-and-replay.
+- 🧪 **Research & backtesting:** tick-level simulators that model latency, queue position and fees, so results hold up in a live market.
+- 📊 **Quant toolkit:** pricing from de-vigged bookmaker odds, probability calibration, Brier scoring and Kelly sizing.
+- 🏗️ **Engineering:** typed Python and OCaml, PostgreSQL, Docker and CI, with test suites that run on every push.
+- 🏆 **Recently built:** a full market-making engine for prediction-market sports contracts, from live data capture through pricing and quoting to paper trading.
+- 🤝 **Open to:** roles and projects in trading, quant development, fintech and anything finance.
 
 <br />
 
@@ -73,14 +78,12 @@ These are the languages and tools I use.
 
 <br />
 
-## 🎮 Contribution graph
+## 📅 Contribution graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JackMcKenna38/JackMcKenna38/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JackMcKenna38/JackMcKenna38/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/JackMcKenna38/JackMcKenna38/output/pacman-contribution-graph.svg">
-  </picture>
+  <a href="https://github.com/JackMcKenna38">
+    <img src="https://ghchart.rshah.org/A78BFA/JackMcKenna38" width="100%" alt="Jack's GitHub contribution graph" />
+  </a>
 </p>
 
 <br />
@@ -88,7 +91,7 @@ These are the languages and tools I use.
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/EDIT-ME"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jack-mckenna-121405342/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" title="LinkedIn" /></a>
   <a href="https://x.com/EDIT-ME"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="X" title="X" /></a>
   <a href="https://discord.com/users/EDIT-ME"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" title="Discord" /></a>
   <a href="https://u.wechat.com/EDIT-ME"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/wechat/default.svg" width="52" height="40" alt="WeChat" title="WeChat" /></a>
