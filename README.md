@@ -3,11 +3,11 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:A78BFA&height=200&section=header&text=Hi%2C%20I'm%20Jack&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Finance%20%C2%B7%20Trading%20%C2%B7%20Software%20engineering&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Hi, I'm Jack" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E4429,100:26A641&height=200&section=header&text=Hi%2C%20I'm%20Jack&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Finance%20%C2%B7%20Trading%20%C2%B7%20Software%20engineering&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Hi, I'm Jack" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Trading+%C2%B7+Markets+%C2%B7+Quant+development;Market+making+%26+market+microstructure;Python+%C2%B7+C%2B%2B+%C2%B7+Rust+%C2%B7+OCaml" alt="Trading, markets and quant development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=3FB950&center=true&vCenter=true&width=640&lines=Trading+%C2%B7+Markets+%C2%B7+Quant+development;Market+making+%26+market+microstructure;Python+%C2%B7+C%2B%2B+%C2%B7+Rust+%C2%B7+OCaml" alt="Trading, markets and quant development" />
 </p>
 
 <br />
@@ -102,5 +102,5 @@ These are the languages and tools I use.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:4C1D95&height=120&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26A641,50:0E4429,100:0D1117&height=120&section=footer" width="100%" alt="" />
 </p>
