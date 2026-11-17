@@ -78,12 +78,14 @@ These are the languages and tools I use.
 
 <br />
 
-## 📅 Contribution graph
+## 🎮 Just for fun
 
 <p align="center">
-  <a href="https://github.com/JackMcKenna38">
-    <img src="https://ghchart.rshah.org/A78BFA/JackMcKenna38" width="100%" alt="Jack's GitHub contribution graph" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/70945878b1118303b37b88060fc7145e1a57d7b1/assets/demo/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/70945878b1118303b37b88060fc7145e1a57d7b1/assets/demo/pacman.svg">
+    <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/70945878b1118303b37b88060fc7145e1a57d7b1/assets/demo/pacman.svg" width="100%" alt="Pac-Man game" />
+  </picture>
 </p>
 
 <br />
